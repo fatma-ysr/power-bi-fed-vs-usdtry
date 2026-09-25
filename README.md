@@ -21,7 +21,7 @@ with the Fed rate, or not?
 ![Insights page](images/insights.png)
 -->
 
-*(screenshots go here)*
+
 
 ## What the data shows
 
