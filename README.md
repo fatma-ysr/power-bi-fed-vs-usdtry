@@ -15,10 +15,8 @@ with the Fed rate, or not?
 
 ## Dashboard preview
 
-<!-- Add your screenshots here. Example:
 ![Overview page](images/overview.png)
 ![Correlation page](images/correlation.png)
--->
 
 
 
