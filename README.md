@@ -18,7 +18,6 @@ with the Fed rate, or not?
 <!-- Add your screenshots here. Example:
 ![Overview page](images/overview.png)
 ![Correlation page](images/correlation.png)
-![Insights page](images/insights.png)
 -->
 
 
